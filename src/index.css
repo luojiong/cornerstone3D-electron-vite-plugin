@@ -1,0 +1,9 @@
+#root,html,body{
+  margin: 0;
+  padding: 0;
+  background-color: #13162e;
+}
+.cornerstone-canvas{
+   left: 0 !important;
+   top: 0 !important;
+}
